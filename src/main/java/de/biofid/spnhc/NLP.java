@@ -22,6 +22,10 @@ import java.util.Map;
 
 import static org.apache.uima.fit.factory.AnalysisEngineFactory.createEngineDescription;
 
+/**
+ * @author Giuseppe Abrami
+ * Class for the NLP methods.
+ */
 public class NLP {
 
     AnalysisEngine pEngine = null;

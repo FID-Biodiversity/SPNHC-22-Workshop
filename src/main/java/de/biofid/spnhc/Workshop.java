@@ -5,6 +5,10 @@ import spark.servlet.SparkApplication;
 
 import java.io.IOException;
 
+/**
+ * @author Giuseppe Abrami
+ * Sample implementation for processing texts with NLP methods
+ */
 public class Workshop implements SparkApplication {
 
     public static void main(String[] args) {

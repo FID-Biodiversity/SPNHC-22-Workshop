@@ -25,6 +25,10 @@ import java.util.Set;
 
 import static spark.Spark.*;
 
+/**
+ * @author Giuseppe Abrami
+ * Class for the execution of the REST methods.
+ */
 public class Methods {
     public static Configuration cf = Configuration.getDefaultConfiguration();
 
